@@ -2,11 +2,9 @@
 https://app.flutterflow.io/project/pantry0-nfw1kl
 ## Overview
 
-This is a flutter app linked to a google firestore cloud database
+This is a flutter app linked to a google firestore cloud database. It allows the user to view a list of the items and add new ones or delete old items.
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/YYqnKniwH-U)
 
